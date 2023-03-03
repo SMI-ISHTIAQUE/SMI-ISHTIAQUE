@@ -21,7 +21,7 @@ Pursuing as Java Programmer and Passion to learn other Progrmming Language.<br>
 Started as WordPress Site Developer then got interest to learn OOP.<br>
 
 🔭 Working as Programmer, Web & Business Content Developer.<br>
-🌱 Currently learning Java, Angular & so on.<br>
+🌱 Currently learning Java, Angular & So On.<br>
 🎓 Completed Bachelor in MIS & MBA in Marketing<br>
 💼 Working as Business Development Executive | Brand, Client, Marketing, and <br>
     System Manager| Saudi Arabia<br>
