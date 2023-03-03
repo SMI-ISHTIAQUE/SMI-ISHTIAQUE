@@ -42,7 +42,7 @@ Started as WordPress Site Developer then got interest to learn OOP.<br>
 🧪 Independent WordPress Plugins - Theme Tester & Recommendation<br>
 🎯 Love and Like to Experience new Web Application and Software.<br><br>
 
-▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮<br>
+▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮<br>
 
 
 # 💻 Tech Stack:
