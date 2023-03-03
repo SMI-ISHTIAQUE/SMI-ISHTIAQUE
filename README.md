@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm S M ISHTIAQUE
 
-https://user-images.githubusercontent.com/118915848/222717440-3819da03-9725-4084-b5f8-90f9167655d3.mp4
-
+![SMI-GiF](https://user-images.githubusercontent.com/118915848/222795232-46f767ab-1cf5-47e1-a3db-c434aa298310.gif)
 
 <!--
 **SMI-ISHTIAQUE/SMI-ISHTIAQUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
