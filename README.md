@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-🔭 Working as Programmer, Web & Business Content Developer
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,8 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 # 💫 About Me:
-I am a Java Programmer<br>Currently exploring Angular and Other Platform<br>
+Pursuing as Java Programmer and Passion to learn other Progrmming Language.
+Started as WordPress Site Developer then got interest to learn OOP.
+
+🔭 Working as Programmer, Web & Business Content Developer.
+🌱 Currently learning Java, Angular & so on.
+🎓 Completed Bachelor in MIS & MBA in Marketing
+💼 Working as Business Development Executive | Brand, Client, Marketing, and <br>
+   System Manager| Saudi Arabia
+🧩 Pursuing as Graphic Design, Content Developer, WordPress WebSite Development, <br>
+   Digital Marketing, Promotion Design & So On. 
+
+🛠 Tech Specialization
+
+🎞 After Effects | Premier Pro | PhotoShop
+🖌 Illustrator | InDesign | SketchUp | Cinema 4D
+
 
 
 # 💻 Tech Stack:
