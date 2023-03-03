@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 
 
 
-# 💫 About Me:
-Pursuing as Java Programmer and Passion to learn other Progrmming Language.
-Started as WordPress Site Developer then got interest to learn OOP.
+# 💫 About Me:<br>
+Pursuing as Java Programmer and Passion to learn other Progrmming Language.<br>
+Started as WordPress Site Developer then got interest to learn OOP.<br>
 
-🔭 Working as Programmer, Web & Business Content Developer.
-🌱 Currently learning Java, Angular & so on.
-🎓 Completed Bachelor in MIS & MBA in Marketing
+🔭 Working as Programmer, Web & Business Content Developer.<br>
+🌱 Currently learning Java, Angular & so on.<br>
+🎓 Completed Bachelor in MIS & MBA in Marketing<br>
 💼 Working as Business Development Executive | Brand, Client, Marketing, and <br>
-   System Manager| Saudi Arabia
+   System Manager| Saudi Arabia<br>
 🧩 Pursuing as Graphic Design, Content Developer, WordPress WebSite Development, <br>
-   Digital Marketing, Promotion Design & So On. 
+   Digital Marketing, Promotion Design & So On.<br>
 
-🛠 Tech Specialization
+🛠 Tech Specialization<br>
 
-🎞 After Effects | Premier Pro | PhotoShop
-🖌 Illustrator | InDesign | SketchUp | Cinema 4D
+🎞 After Effects | Premier Pro | PhotoShop<br><br>
+🖌 Illustrator | InDesign | SketchUp | Cinema 4D<br>
 
 
 
