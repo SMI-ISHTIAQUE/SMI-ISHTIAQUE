@@ -24,15 +24,21 @@ Started as WordPress Site Developer then got interest to learn OOP.<br>
 🌱 Currently learning Java, Angular & so on.<br>
 🎓 Completed Bachelor in MIS & MBA in Marketing<br>
 💼 Working as Business Development Executive | Brand, Client, Marketing, and <br>
-   System Manager| Saudi Arabia<br>
+    System Manager| Saudi Arabia<br>
 🧩 Pursuing as Graphic Design, Content Developer, WordPress WebSite Development, <br>
-   Digital Marketing, Promotion Design & So On.<br>
+    Digital Marketing, Promotion Design & So On.<br>
 
 🛠 Tech Specialization<br>
 
-🎞 After Effects | Premier Pro | PhotoShop<br><br>
+💻 Java | PHP<br>
+🎞 After Effects | Premier Pro | PhotoShop<br>
 🖌 Illustrator | InDesign | SketchUp | Cinema 4D<br>
-
+🌐 HTML5 | CSS | BootStrap | Javascript | Spring Boot | Thymeleaf | JSP | Angular<br>
+📱 Andoid | Flutter<br>
+💾 Mysql | JSON | Firebase | MSSQL<br>
+🖥 PaperCut | Odoo ERP | Dolibarr | Microsoft Dynamic CRM<br>
+🧪 Independent WordPress Plugins - Theme Tester & Recommendation<br>
+🎯 Love and Like to Experience new Web Application and Software.<br>
 
 
 # 💻 Tech Stack:
