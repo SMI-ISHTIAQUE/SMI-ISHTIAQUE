@@ -36,11 +36,11 @@ Digital Marketing, Promotion Design & So On.<br>
 🎞 After Effects | Premier Pro | PhotoShop<br>
 🖌 Illustrator | InDesign | SketchUp | Cinema 4D<br>
 🌐 HTML5 | CSS | BootStrap | Javascript | Spring Boot | Thymeleaf | JSP | Angular<br>
-📱 Andoid | Flutter<br>
+📱 Android | Flutter<br>
 💾 Mysql | JSON | Firebase | MSSQL<br>
 🖥 PaperCut | Odoo ERP | Dolibarr | Microsoft Dynamic CRM<br>
 🧪 Independent WordPress Plugins - Theme Tester & Recommendation<br>
-🎯 Love and Like to Experience new Web Application and Software.<br><br>
+🎯 Love and Like to Experience new Web Applications and Software.<br><br>
 
 ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮<br>
 
