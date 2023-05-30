@@ -70,6 +70,9 @@ Digital Marketing, Promotion Design & So On.<br>
 <a href="https://www.youtube.com/@smi-ishtiaque" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.smi.mixedcs.com" target="_blank">
+<img src=https://img.shields.io/badge/web-%23EE4831.svg?&style=for-the-badge&logo=web&logoColor=white alt=web style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
