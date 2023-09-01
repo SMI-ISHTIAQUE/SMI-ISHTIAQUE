@@ -73,11 +73,6 @@ Digital Marketing, Promotion Design & So On.<br>
 <a href="https://www.smi.mixedcs.com" target="_blank">
 <img src=https://img.shields.io/badge/web-%23EE4831.svg?&style=for-the-badge&logo=web&logoColor=white alt=web style="margin-bottom: 5px;" />
 </a>
-</div>  
-  
+</div>    
 
 <br/>  
----
-[![](https://visitcount.itsvg.in/api?id=SMI-ISHTIAQUE&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
