@@ -33,7 +33,7 @@ Digital Marketing, Promotion Design, and So On.<br>
 🛠 Tech Specialization<br>
 
 💻 Java | Python<br>
-⚙️ Spring | Spring Boot<br>
+⚙️ Spring | Spring Boot | Spring Security<br>
 🎞 After Effects | Premier Pro | PhotoShop<br>
 🖌 PhotoShop | Illustrator | InDesign<br> 
 👓 SketchUp | Cinema 4D<br>
