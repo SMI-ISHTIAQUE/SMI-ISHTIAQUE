@@ -19,27 +19,22 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:<br>
-Pursuing as a Java Developer and a Passion for learning other Programming languages.<br>
+A Java Developer, Learning & Utilizing Latest Tech, oh! Also Love Pyhton.<br>
 
-🔭 Working as Web & Business Content Developer.<br>
-🌱 Currently learning Java (Spring Boot), Angular, and So On.<br>
-🎓 Completed Bachelor in MIS and MBA in Marketing.<br>
-🎓 Completed Full Stack Java Development Course from IsDB-BISEW.<br>
-💼 Worked as Business Development Executive | Brand, Client, Marketing, and<br>
-System Manager | Saudi Arabia.<br>
-🧩 Working as a Graphic Designer, Content Developer, WordPress Website Development,<br>
-Digital Marketing, Promotion Design, and So On.<br>
+🔭 Working as Java Developer & Business Content Developer.<br>
+🧩 Expertise in UI Design, Content Development, and Digital Marketing.<be>
 
 🛠 Tech Specialization<br>
 
 💻 Java | Python<br>
 ⚙️ Spring | Spring Boot | Spring Security<br>
-🎞 After Effects | Premier Pro | PhotoShop<br>
+🌐 HTML5 | CSS | BootStrap | Javascript | Node.js | Thymeleaf | JSP | Angular<br>
+🪛 Automated and Manual Testing using JMeter, JUnit, Cypress, k6, API.
+💾 Mysql | PostgreSQL | Firebase | MSSQL<br>
+📱 Android | Flutter<br>
+🎞 After Effects | Premier Pro | PhotoShop | Illustrator<br>
 🖌 PhotoShop | Illustrator | InDesign<br> 
 👓 SketchUp | Cinema 4D<br>
-🌐 HTML5 | CSS | BootStrap | Javascript | Thymeleaf | JSP | Angular<br>
-📱 Android | Flutter<br>
-💾 Mysql | PostgreSQL | Firebase | MSSQL<br>
 🖥 PaperCut | Odoo ERP | Microsoft Dynamic CRM<br><br>
 🧪 Independent WordPress Plugins - Theme Tester and Recommendation<br>
 🎯 Love and Like to Experience new Web Applications and Software.<br><br>
