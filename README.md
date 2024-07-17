@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:<br>
-A Java Developer, Learning & Utilizing Latest Tech, oh! Also Love Pyhton.<br>
+I'm a passionate technologist with technical expertise and business acumen. I leverage my Management Information Systems (MIS), Marketing, and Full Stack Development background to bridge the gap between technology and business strategies.<br>
 
-🔭 Working as Java Developer & Business Content Developer.<br>
-🧩 Expertise in UI Design, Content Development, and Digital Marketing.<be>
+🧩 Full-Stack Development • Software Testing • Content Creation • Digital Marketing • Business Administration<br>
 
 🛠 Tech Specialization<br>
 
